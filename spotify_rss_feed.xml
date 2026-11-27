@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@TheSpoilerOwl</link>
     <language>en-us</language>
     <description>Entire fantasy, sci-fi, and cult webnovel sagas—explained start to finish in one sitting. Zero filler, deep lore, and honest verdicts. Grab headphones and get comfortable.</description>
-    <lastBuildDate>Fri, 27 Nov 2026 11:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:45:13 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/BearMakesAnything/the-spoiler-owl-feed/main/spotify_rss_feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The Spoiler Owl</itunes:author>
     <itunes:summary>Entire fantasy, sci-fi, and cult webnovel sagas—explained start to finish in one sitting. Zero filler, deep lore, and honest verdicts. Grab headphones and get comfortable.</itunes:summary>
@@ -19,6 +19,49 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" />
     </itunes:category>
+    <item>
+      <title>How 1 Fake Tarot Club Beat 22 Deadly Paths</title>
+      <description>Instead of winning through brute strength, Zhou Mingrui turns psychological acting and a fake divine roundtable above the gray fog into survival across twenty-two sanity-crushing pathways.
+Here is the complete animated breakdown of Lord of the Mysteries — the hidden rules, character psychology, biggest twists, and our honest verdict.
+
+CHAPTERS:
+00:00:00 The Revolver and the Gray Fog
+00:05:26 Nighthawks and the Acting Method
+00:10:20 The Quill of Fate and Tingen's Sacrifice
+00:15:53 Sherlock Moriarty in Smog City
+00:20:54 The Great Smog of Backlund
+00:26:54 Gehrman Sparrow on the Sonia Sea
+00:32:45 The False Sea God and the Crystal Monocle
+00:37:58 Vengeance for Tingen and Becoming a Demigod
+00:42:52 Dwayne Dantès and the Fall of an Emperor
+00:48:09 Hunted by Amon in the Forsaken Land
+00:53:07 City of Silver and the Lightseeker
+00:59:13 Merlin Hermes and the Moon-Cursed Emperor
+01:04:15 Adam's Cathedral and the Ancient Sun God
+01:08:38 The Fool's Gambit Above the Gray Fog
+01:13:22 The Slumber of the Fool and Honest Verdict
+
+FREE 1-PAGE COMPANION LORE GUIDE:
+- Download the Lord of the Mysteries Power System &amp; Character Sheet: [COMPANION_LORE_GUIDE_URL]
+
+READ OR LISTEN TO THE ORIGINAL BOOK:
+- Lord of the Mysteries by Cuttlefish That Loves Diving (Book / Kindle): [BOOK_AFFILIATE_URL]
+- Lord of the Mysteries (Audiobook / Audible): [AUDIBLE_AFFILIATE_URL]
+
+FTC AFFILIATE DISCLOSURE: Some links above are affiliate links. If you purchase through them, The Spoiler Owl (@TheSpoilerOwl) may earn a small commission at zero extra cost to you.
+
+ABOUT THE SPOILER OWL (@TheSpoilerOwl):
+On The Spoiler Owl (@TheSpoilerOwl), we explain entire fantasy, sci-fi, and cult webnovel sagas start to finish in one sitting. In this breakdown of Lord of the Mysteries by Cuttlefish That Loves Diving, we dissect the world-building mechanics, protagonist evolution, tactical turning points, and deliver our honest verdict with zero filler.
+Production &amp; Disclosure Note: Original literary analysis, custom hand-drawn 2D animation, and disclosed synthetic voice narration (containsSyntheticMedia: true). Please support Cuttlefish That Loves Diving by reading the original work!</description>
+      <guid isPermaLink="false">urn:the-spoiler-owl:ep01_lord_of_mysteries_full</guid>
+      <pubDate>Fri, 27 Nov 2026 21:45:13 +0000</pubDate>
+      <enclosure url="https://github.com/BearMakesAnything/the-spoiler-owl-feed/releases/download/ep01_lord_of_mysteries_full/ep01_lord_of_mysteries_full_podcast_192k.mp3" length="128880058" type="audio/mpeg" />
+      <itunes:duration>01:29:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://raw.githubusercontent.com/BearMakesAnything/the-spoiler-owl-feed/main/cover_1400.jpg" />
+      <podcast:chapters url="https://github.com/BearMakesAnything/the-spoiler-owl-feed/releases/download/ep01_lord_of_mysteries_full/ep01_lord_of_mysteries_full_chapters.json" type="application/json+chapters" />
+    </item>
     <item>
       <title>Why Lord of the Mysteries Broke Every Rule of Its Genre</title>
       <description>Instead of winning through brute talent, Klein Moretti survives twenty-two sanity-crushing potion pathways by bluffing secret demi-gods from behind a wall of gray fog.
