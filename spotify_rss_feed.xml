@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>The Spoiler Owl</title>
+    <link>https://www.youtube.com/@TheSpoilerOwl</link>
+    <language>en-us</language>
+    <description>Entire fantasy, sci-fi, and cult webnovel sagas—explained start to finish in one sitting. Zero filler, deep lore, and honest verdicts. Grab headphones and get comfortable.</description>
+    <lastBuildDate>Fri, 27 Nov 2026 11:15:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/BearMakesAnything/the-spoiler-owl-feed/main/spotify_rss_feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>The Spoiler Owl</itunes:author>
+    <itunes:summary>Entire fantasy, sci-fi, and cult webnovel sagas—explained start to finish in one sitting. Zero filler, deep lore, and honest verdicts. Grab headphones and get comfortable.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://raw.githubusercontent.com/BearMakesAnything/the-spoiler-owl-feed/main/cover_1400.jpg" />
+    <itunes:owner>
+      <itunes:name>The Spoiler Owl</itunes:name>
+      <itunes:email>chanuthhherath@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Arts">
+      <itunes:category text="Books" />
+    </itunes:category>
+    <item>
+      <title>Why Lord of the Mysteries Broke Every Rule of Its Genre</title>
+      <description>Instead of winning through brute talent, Klein Moretti survives twenty-two sanity-crushing potion pathways by bluffing secret demi-gods from behind a wall of gray fog.
+Here is the complete animated breakdown of Lord of the Mysteries — the hidden rules, character psychology, biggest twists, and our honest verdict.
+
+CHAPTERS:
+00:00 The Hook &amp; Premise
+00:19 Chapter I
+00:38 Chapter I
+
+FREE 1-PAGE COMPANION LORE GUIDE:
+- Download the Lord of the Mysteries Power System &amp; Character Sheet: [COMPANION_LORE_GUIDE_URL]
+
+READ OR LISTEN TO THE ORIGINAL BOOK:
+- Lord of the Mysteries by Cuttlefish That Loves Diving (Book / Kindle): [BOOK_AFFILIATE_URL]
+- Lord of the Mysteries (Audiobook / Audible): [AUDIBLE_AFFILIATE_URL]
+
+FTC AFFILIATE DISCLOSURE: Some links above are affiliate links. If you purchase through them, The Spoiler Owl (@TheSpoilerOwl) may earn a small commission at zero extra cost to you.
+
+ABOUT THE SPOILER OWL (@TheSpoilerOwl):
+Entire fantasy, sci-fi, and cult webnovel sagas—explained start to finish in one sitting. Zero filler, deep lore, and honest verdicts. Grab headphones and get comfortable.
+Production &amp; Disclosure Note: Original literary analysis, custom hand-drawn 2D animation, and disclosed synthetic voice narration (containsSyntheticMedia: true). Please support Cuttlefish That Loves Diving by reading the original work!</description>
+      <guid isPermaLink="false">urn:the-spoiler-owl:ep03_lord_of_mysteries_v12_proof</guid>
+      <pubDate>Fri, 27 Nov 2026 11:15:00 +0000</pubDate>
+      <enclosure url="https://github.com/BearMakesAnything/the-spoiler-owl-feed/releases/download/ep03_lord_of_mysteries_v12_proof/ep03_lord_of_mysteries_v12_proof_podcast_192k.mp3" length="1221559" type="audio/mpeg" />
+      <itunes:duration>00:00:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://raw.githubusercontent.com/BearMakesAnything/the-spoiler-owl-feed/main/cover_1400.jpg" />
+      <podcast:chapters url="https://github.com/BearMakesAnything/the-spoiler-owl-feed/releases/download/ep03_lord_of_mysteries_v12_proof/ep03_lord_of_mysteries_v12_proof_chapters.json" type="application/json+chapters" />
+    </item>
+  </channel>
+</rss>
